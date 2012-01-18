@@ -163,7 +163,7 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/yaffs2" name="platform/external/yaffs2" />
   <project path="external/zlib" name="platform/external/zlib" />
-  <project path="frameworks/base" name="TeamKang/frameworks_base" remote="gh" revision="4.0.3" />
+  <project path="frameworks/base" name="Zaphod-Beeblebrox/frameworks_base" remote="gh" revision="4.0.3" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" remote="gh" revision="ics" />
@@ -258,6 +258,6 @@
   <project path="external/busybox" name="CyanogenMod/android_external_busybox.git" remote="gh" revision="ics" />
   <project path="system/su" name="TeamKang/android_system_su" remote="gh" revision="ics" />
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="gh" revision="ics" />
-  <project path="packages/apps/ROMControl" name="TeamKang/packages_apps_ROMControl" remote="gh" revision="master" />
+  <project path="packages/apps/ROMControl" name="Zaphod-Beeblebrox/packages_apps_ROMControl" remote="gh" revision="master" />
 
 </manifest>
