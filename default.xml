@@ -5,15 +5,15 @@
            fetch="https://android.googlesource.com/" />
            
   <remote  name="gh"
-           fetch="git://github.com/"
+           fetch="http://github.com/"
            revision="master" />
            
   <remote  name="kang"
-           fetch="git@github.com:AOKP/"
+           fetch="https://github.com/AOKP/"
            revision="master" />
            
   <remote  name="cm"
-           fetch="git://github.com/CyanogenMod/"
+           fetch="http://github.com/CyanogenMod/"
            revision="ics" />
 
   <default revision="refs/tags/android-4.0.3_r1"
@@ -276,7 +276,7 @@
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="gh" revision="master" />
   <project path="vendor/amazon/otter" name="AOKP/vendor_amazon_otter" remote="gh" revision="ics" />
   
-  <project path="external/busybox" name="CyanogenMod/android_external_busybox.git" remote="gh" revision="ics" />
+  <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="gh" revision="ics" />
   <project path="system/su" name="AOKP/android_system_su" remote="gh" revision="ics" />
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="gh" revision="ics" />
   <project path="packages/apps/ROMControl" name="Zaphod-Beeblebrox/packages_apps_ROMControl" remote="gh" revision="master" />
