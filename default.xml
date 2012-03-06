@@ -32,6 +32,7 @@
   <project path="dalvik" name="platform/dalvik" />
   <project path="development" name="AOKP/platform_development" remote="gh" revision="ics-mr1-release" />
   <project path="device/amazon/otter" name="AOKP/device_amazon_otter" remote="gh" revision="ics" />
+  <project path="device/acer/a500" name="AOKP/device_acer_a500" remote="gh" revision="ics" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
@@ -47,8 +48,12 @@
   <project path="device/moto/wingray" name="AOKP/device_moto_wingray" remote="gh" revision="ics" />
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/aries-common" name="AOKP/device_samsung_aries-common" remote="gh" revision="ics" />
+   <project path="device/samsung/captivatemtd" name="AOKP/device_samsung_captivatemtd" remote="gh" revision="ics" />
   <project path="device/samsung/crespo" name="AOKP/device_samsung_crespo" remote="gh" revision="ics" />
   <project path="device/samsung/crespo4g" name="AOKP/device_samsung_crespo4g" remote="gh" revision="ics" />
+  <project path="device/samsung/fascinatemtd" name="AOKP/device_samsung_fascinatemtd" remote="gh" revision="ics" />
+  <project path="device/samsung/galaxysmtd" name="AOKP/device_samsung_galaxysmtd" remote="gh" revision="ics" />
+  <project path="device/samsung/galaxytab7c" name="AOKP/device_samsung_galaxytab7c" remote="gh" revision="AOKP" />
   <project path="device/samsung/maguro" name="AOKP/device_samsung_maguro" remote="gh" revision="master" />
   <project path="device/samsung/p4" name="AOKP/device_samsung_p4" remote="gh" revision="ics" />
   <project path="device/samsung/p4-common" name="AOKP/device_samsung_p4-common" remote="gh" revision="ics" />
@@ -56,7 +61,6 @@
   <project path="device/samsung/p4wifi" name="AOKP/device_samsung_p4wifi" remote="gh" revision="ics" />
   <project path="device/samsung/toro" name="AOKP/device_samsung_toro" remote="gh" revision="master" />
   <project path="device/samsung/tuna" name="AOKP/device_samsung_tuna" remote="gh" revision="ics" />
-  <project path="device/samsung/vzwtab" name="AOKP/device_samsung_vzwtab" remote="gh" revision="AOKP" />
   <project path="device/ti/panda" name="device/ti/panda" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/android-mock" name="platform/external/android-mock" />
@@ -197,7 +201,7 @@
   <project path="hardware/qcom/camera" name="AOKP/android_hardware_qcom_camera" remote="gh" revision="ics" />
   <project path="hardware/msm7k" name="AOKP/hardware_msm7k" remote="gh" revision="master" />
   <project path="hardware/qcom/gps" name="AOKP/hardware_qcom_gps" remote="gh" revision="master" />
-  <project path="hardware/qcom/media" name="AOKP/hardware_qcom_media" remote="gh" revision="master" />
+  <project path="hardware/qcom/media" name="AOKP/android_hardware_qcom_media" remote="gh" revision="ics" />
   <project path="hardware/ril" name="AOKP/android_hardware_ril" remote="gh" revision="ics" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" />
@@ -275,6 +279,7 @@
   <project path="vendor/htc" name="AOKP/vendor_htc" remote="gh" revision="master" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="gh" revision="master" />
   <project path="vendor/amazon/otter" name="AOKP/vendor_amazon_otter" remote="gh" revision="ics" />
+   <project path="vendor/acer/a500" name="AOKP/vendor_acer_a500" remote="gh" revision="ics" />
   
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="gh" revision="ics" />
   <project path="system/su" name="AOKP/android_system_su" remote="gh" revision="ics" />
