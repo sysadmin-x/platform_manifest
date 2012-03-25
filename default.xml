@@ -249,7 +249,7 @@
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="AOKP/system_vold" remote="gh" revision="master" />
-  <project path="vendor/samsung" name="AOKP/vendor_samsung" remote="gh" revision="master" />
+  <project path="vendor/samsung" name="Zaphod-Beeblebrox/vendor_samsung" remote="gh" revision="master" />
   <project path="vendor/imgtec" name="AOKP/vendor_imgtec" remote="gh" revision="master" />
   <project path="vendor/aokp" name="Zaphod-Beeblebrox/vendor_aokp" remote="gh" revision="ics" />
   <project path="vendor/hp/tenderloin" name="AOKP/vendor_hp_tenderloin" remote="gh" revision="aokp" />
