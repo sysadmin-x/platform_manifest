@@ -41,8 +41,8 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
   <project path="device/hp/tenderloin" name="AOKP/android_device_hp_tenderloin" remote="gh" revision="ics" />
   <project path="device/sample" name="device/sample" />
-  <project path="device/samsung/maguro" name="AOKP/device_samsung_maguro" remote="gh" revision="ics" />
-  <project path="device/samsung/toro" name="AOKP/device_samsung_toro" remote="gh" revision="ics" />
+  <project path="device/samsung/maguro" name="AOKP/device_samsung_maguro" remote="gh" revision="master" />
+  <project path="device/samsung/toro" name="AOKP/device_samsung_toro" remote="gh" revision="master" />
   <project path="device/samsung/tuna" name="AOKP/device_samsung_tuna" remote="gh" revision="ics" />
   <project path="device/ti/panda" name="device/ti/panda" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
