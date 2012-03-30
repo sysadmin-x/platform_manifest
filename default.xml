@@ -15,6 +15,10 @@
   <remote  name="kang"
            fetch="https://github.com/AOKP/"
            revision="master" />
+
+ <remote  name="zb"
+           fetch="https://github.com/Zaphod-Beeblebrox/"
+           revision="master" />
            
   <remote  name="cm"
            fetch="http://github.com/CyanogenMod/"
