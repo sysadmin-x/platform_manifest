@@ -45,8 +45,8 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
   <project path="device/hp/tenderloin" name="AOKP/android_device_hp_tenderloin" remote="gh" revision="ics" />
   <project path="device/sample" name="device/sample" />
-  <project path="device/samsung/maguro" name="AOKP/device_samsung_maguro" remote="gh" revision="master" />
-  <project path="device/samsung/toro" name="AOKP/device_samsung_toro" remote="gh" revision="master" />
+  <project path="device/samsung/maguro" name="AOKP/device_samsung_maguro" remote="gh" revision="ics" />
+  <project path="device/samsung/toro" name="AOKP/device_samsung_toro" remote="gh" revision="ics" />
   <project path="device/samsung/tuna" name="AOKP/device_samsung_tuna" remote="gh" revision="ics" />
   <project path="device/ti/panda" name="device/ti/panda" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
@@ -197,7 +197,7 @@
   <project path="hardware/qcom/display" name="AOKP/android_hardware_qcom_display" remote="gh" revision="ics" />
   <project path="hardware/qcom/camera" name="AOKP/android_hardware_qcom_camera" remote="gh" revision="ics" />
   <project path="hardware/msm7k" name="AOKP/android_hardware_msm7k" remote="gh" revision="ics" />
-  <project path="hardware/qcom/gps" name="AOKP/hardware_qcom_gps" remote="gh" revision="master" />
+  <project path="hardware/qcom/gps" name="AOKP/hardware_qcom_gps" remote="gh" revision="ics" />
   <project path="hardware/qcom/media" name="AOKP/android_hardware_qcom_media" remote="gh" revision="ics" />
   <project path="hardware/ril" name="AOKP/android_hardware_ril" remote="gh" revision="ics" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
@@ -223,7 +223,7 @@
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher2" name="AOKP/android_packages_apps_Launcher2" remote="gh" revision="ics" />
-  <project path="packages/apps/Mms" name="AOKP/packages_apps_Mms" remote="gh" revision="master" />
+  <project path="packages/apps/Mms" name="AOKP/packages_apps_Mms" remote="gh" revision="ics" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
@@ -277,7 +277,7 @@
   <project path="vendor/samsung" name="Zaphod-Beeblebrox/vendor_samsung" remote="gh" revision="ics" />
   <project path="vendor/aokp" name="Zaphod-Beeblebrox/vendor_aokp" remote="gh" revision="ics" />
   <project path="vendor/hp/tenderloin" name="AOKP/vendor_hp_tenderloin" remote="gh" revision="aokp" />
-  <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="gh" revision="master" />
+  <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="gh" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-core" name="AOKP/android_vendor_qcom_opensource_omx_mm-core" remote="gh" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-video" name="AOKP/android_vendor_qcom_opensource_omx_mm-video" remote="gh" revision="ics" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="gh" revision="ics" />
@@ -287,5 +287,5 @@
   <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" remote="gh" revision="ics" />
   <project path="packages/apps/GanOptimizer" name="CyanogenMod/android_packages_apps_GanOptimizer" remote="gh" revision="gb-release-7.2" />
   <project path="packages/apps/AppWidgetPicker" name="AOKP/packages_apps_AppWidgetPicker" remote="gh" revision="ics" />
-
+  <project path="platform_manifest" name="Zaphod-Beeblebrox/platform_manifest" remote="gh" revision="ics" />
 </manifest>
