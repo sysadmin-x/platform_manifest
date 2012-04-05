@@ -1,2 +1,1 @@
-$ repo init -u https://github.com/Zaphod-Beeblebrox/platform_manifest.git -b master
-$ repo sync
+$ repo init -u https://github.com/Zaphod-Beeblebrox/platform_manifest.git -b ics
