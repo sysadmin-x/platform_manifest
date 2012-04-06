@@ -28,27 +28,24 @@
   <project path="dalvik" name="platform/dalvik" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
   <project path="development" name="AOKP/platform_development" remote="gh" revision="ics" />
   <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
-  <project path="device/generic/goldfish" name="device/generic/goldfish" />
-  <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
-  <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
+  <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
+  <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.0.4_r1.1"/>
+  <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.0.4_r1.1"  />
   <project path="device/hp/tenderloin" name="AOKP/android_device_hp_tenderloin" remote="gh" revision="ics" />
   <project path="device/malata/smba1002" name="Zaphod-Beeblebrox/android_device_malata_smba1002" remote="gh" revision="ics" />
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/maguro" name="AOKP/device_samsung_maguro" remote="gh" revision="ics" />
   <project path="device/samsung/toro" name="AOKP/device_samsung_toro" remote="gh" revision="ics" />
   <project path="device/samsung/tuna" name="AOKP/device_samsung_tuna" remote="gh" revision="ics" />
-  <project path="device/ti/panda" name="device/ti/panda" />
-  <project path="docs/source.android.com" name="platform/docs/source.android.com" />
-  <project path="external/android-clat" name="platform/external/android-clat" />
-  <project path="external/android-mock" name="platform/external/android-mock" />
-  <project path="external/antlr" name="platform/external/antlr" />
-  <project path="external/apache-harmony" name="platform/external/apache-harmony" />
-  <project path="external/apache-qp" name="platform/external/apache-qp" />
-  <project path="external/apache-http" name="platform/external/apache-http" />
-  <project path="external/apache-xml" name="platform/external/apache-xml" />
-  <project path="external/astl" name="platform/external/astl" />
-  <project path="external/bison" name="platform/external/bison" />
-  <project path="external/blktrace" name="platform/external/blktrace" />
+  <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.0.4_r1.1"/>
+  <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.4_r1.1"/>
+  <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.0.4_r1.1"/>
+  <project path="external/apache-harmony" name="platform/external/apache-harmony" remote="aosp" revision="refs/tags/android-4.0.4_r1.1"/>
+  <project path="external/apache-http" name="platform/external/apache-http"  remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
+  <project path="external/apache-xml" name="platform/external/apache-xml"  remote="aosp" revision="refs/tags/android-4.0.4_r1.1"/>
+  <project path="external/astl" name="platform/external/astl" remote="aosp" revision="refs/tags/android-4.0.4_r1.1"/>
+  <project path="external/bison" name="platform/external/bison" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
+  <project path="external/blktrace" name="platform/external/blktrace" remote="aosp" revision="refs/tags/android-4.0.4_r1.1"/>
   <project path="external/bluetooth/bluez" name="AOKP/external_bluetooth_bluez" remote="gh" revision="ics" />
   <project path="external/bluetooth/glib" name="platform/external/bluetooth/glib" remote="aosp" revision="refs/tags/android-4.0.4_r1.1"/>
   <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" remote="aosp" revision="refs/tags/android-4.0.4_r1.1"/>
