@@ -5,7 +5,7 @@
            fetch="https://android.googlesource.com/" />
 
   <remote  name="gh"
-           fetch="http://github.com/"
+           fetch="https://github.com/"
            review="gerrit.aokp.co"
            revision="ics" />
            
@@ -18,7 +18,7 @@
            revision="master" />
            
   <remote  name="cm"
-           fetch="http://github.com/CyanogenMod/"
+           fetch="https://github.com/CyanogenMod/"
            revision="ics" />
 
   <default remote="aosp"
