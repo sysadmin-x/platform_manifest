@@ -251,7 +251,7 @@
   <project path="vendor/samsung" name="Zaphod-Beeblebrox/vendor_samsung" remote="gh" revision="ics" />
   <project path="vendor/aokp" name="Zaphod-Beeblebrox/vendor_aokp" remote="gh" revision="ics" />
   <project path="vendor/hp/tenderloin" name="AOKP/vendor_hp_tenderloin" remote="gh" revision="aokp" />
-  <project path="vendor/malata/smba1002" name="AOKP/vendor_matala_smba1002" remote="gh" revision="aokp" />
+  <project path="vendor/malata/smba1002" name="Zaphod-Beeblebrox/vendor_malata_smba1002" remote="gh" revision="ics" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="gh" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-core" name="AOKP/android_vendor_qcom_opensource_omx_mm-core" remote="gh" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-video" name="AOKP/android_vendor_qcom_opensource_omx_mm-video" remote="gh" revision="ics" />
