@@ -33,7 +33,7 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.0.4_r1.1"  />
   <project path="device/hp/tenderloin" name="AOKP/android_device_hp_tenderloin" remote="gh" revision="ics" />
   <project path="device/malata/smba1002" name="Zaphod-Beeblebrox/android_device_malata_smba1002" remote="gh" revision="ics" />
-  <project path="device/sample" name="device/sample" />
+  <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
   <project path="device/samsung/maguro" name="AOKP/device_samsung_maguro" remote="gh" revision="ics" />
   <project path="device/samsung/toro" name="AOKP/device_samsung_toro" remote="gh" revision="ics" />
   <project path="device/samsung/tuna" name="AOKP/device_samsung_tuna" remote="gh" revision="ics" />
