@@ -8,21 +8,13 @@
            fetch="https://github.com/"
            review="gerrit.aokp.co"
            revision="ics" />
-           
-  <remote  name="kang"
-           fetch="https://github.com/AOKP/"
-           revision="master" />
 
- <remote  name="zb"
-           fetch="https://github.com/Zaphod-Beeblebrox/"
-           revision="master" />
-           
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
            revision="ics" />
 
   <default remote="aosp"
-           sync-j="4" />
+           sync-j="1" />
 
   <project path="build" name="AOKP/android_build" revision="ics" remote="gh">
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -40,6 +32,7 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
   <project path="device/hp/tenderloin" name="AOKP/android_device_hp_tenderloin" remote="gh" revision="ics" />
+  <project path="device/malata/smba1002" name="Zaphod-Beeblebrox/android_device_malata_smba1002" remote="gh" revision="ics" />
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/maguro" name="AOKP/device_samsung_maguro" remote="gh" revision="ics" />
   <project path="device/samsung/toro" name="AOKP/device_samsung_toro" remote="gh" revision="ics" />
@@ -261,6 +254,7 @@
   <project path="vendor/samsung" name="Zaphod-Beeblebrox/vendor_samsung" remote="gh" revision="ics" />
   <project path="vendor/aokp" name="Zaphod-Beeblebrox/vendor_aokp" remote="gh" revision="ics" />
   <project path="vendor/hp/tenderloin" name="AOKP/vendor_hp_tenderloin" remote="gh" revision="aokp" />
+  <project path="vendor/malata/smba1002" name="AOKP/vendor_matala_smba1002" remote="gh" revision="aokp" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="gh" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-core" name="AOKP/android_vendor_qcom_opensource_omx_mm-core" remote="gh" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-video" name="AOKP/android_vendor_qcom_opensource_omx_mm-video" remote="gh" revision="ics" />
